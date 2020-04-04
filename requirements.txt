@@ -1,0 +1,11 @@
+causal-impact==1.2.1
+causality==0.0.9
+dowhy==0.2
+jax==0.1.62
+matplotlib==3.2.1
+numpy==1.18.2
+pandas==1.0.3
+seaborn==0.10.0
+tensorflow==2.1.0
+tensorflow-probability==0.9.0
+whynot==0.12.0
